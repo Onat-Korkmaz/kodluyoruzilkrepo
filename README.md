@@ -30,3 +30,7 @@ Pull requestler kabul edilir. Büyük değişiklikler için, lütfen önce neyi 
 ## License
 
 [MIT](https://choosealicense.com/licenses/mit/)
+
+## Links
+
+[Patika.dev hesabım](https://app.patika.dev/onatkorkmaz)
